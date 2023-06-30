@@ -1,0 +1,5 @@
+{
+    "java.configuration.updateBuildConfiguration": "interactive",
+    "cmake.sourceDirectory": "/home/underdog/Documents/HUSTLE/Flutter_Development/Flutter_Projects/the_news_app/windows/runner",
+    "java.compile.nullAnalysis.mode": "automatic"
+}

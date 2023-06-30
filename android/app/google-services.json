@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "200146339578",
+    "project_id": "the-news-app-ab553",
+    "storage_bucket": "the-news-app-ab553.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:200146339578:android:6d3f4d996c5886df5f6b43",
+        "android_client_info": {
+          "package_name": "com.example.the_news_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "200146339578-6m6c2gncm0eaiju4f3la4adaq2sn3ai2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkyDSfh5fvj6Tq-19agorOYcL1vdSakuQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "200146339578-6m6c2gncm0eaiju4f3la4adaq2sn3ai2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
